@@ -3,13 +3,12 @@
 
 <td valign="top">
 
-<!-- MAIN CONTENT -->
 
-<!-- PROFILE BANNER -->
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=180&section=header&text=ESCclicker&fontSize=40&fontColor=ffffff&animation=fadeIn" width= "100%">
 
 <h2>🎮 Developer Profile</h2>
-
 <table>
 <tr>
 <td>
@@ -19,7 +18,7 @@
 **Main Weapon:** Rust 🦀  
 **Level:** Beginner 
 
----
+
 
 ### ⚡ Stats
 
@@ -32,19 +31,19 @@ Learning
 Building  
 ![Building](https://img.shields.io/badge/Building-60%25-00bfff?style=for-the-badge)
 
----
+
 
 ### 🧰 Skill Inventory
 
 <img src="https://skillicons.dev/icons?i=rust,git,vscode" />
 
----
+
 
 ### 🏆 Achievements
 
 ![badge](https://img.shields.io/badge/First_Rust_Program-Unlocked-success?style=for-the-badge)
 
-![badge](https://img.shields.io/badge/Open_Source-Journey-blue?style=for-the-badge)
+![badge](https://img.shields.io/badge/coding-Journey-blue?style=for-the-badge)
 
 </td>
 
@@ -64,26 +63,26 @@ Building
 
 <td width="10%" align="right" valign="top">
 
-<!-- SOCIAL ICONS -->
+
 <a 
 href="https://github.com/ESCclicker">
-<img src="https://skillicons.dev/icons?i=github" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="36">
 </a>
 <br>
 <a href="https://orcid.org/0009-0002-5646-902X" title="ORCID">
-<img src="https://cdn.simpleicons.org/orcid/A6CE39" width="100">
+<img src="https://cdn.simpleicons.org/orcid/A6CE39" width="36">
 </a>
 <br>
 <a href="https://youtube.com/@ESCclicker">
-<img src="https://cdn.simpleicons.org/youtube" width="100">
+<img src="https://cdn.simpleicons.org/youtube" width="36">
 </a>
 <br>
 <a href="https://twitch.tv/ESCclicker">
-<img src="https://cdn.simpleicons.org/twitch" width="100">
+<img src="https://cdn.simpleicons.org/twitch" width="36">
 </a>
 <br>
 <a href="https://mail.google.com/mail/?view=cm&to=escclicker@gmail.com" title="Send Email">
-  <img src="https://skillicons.dev/icons?i=gmail" width="100">
+  <img src="https://skillicons.dev/icons?i=gmail" width="36">
 </a>
 <br>
 
