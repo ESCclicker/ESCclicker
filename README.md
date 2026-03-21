@@ -1,4 +1,4 @@
-<table width="90%">
+<table width="60%">
 <tr>
 
 <td valign="top">
@@ -61,28 +61,28 @@ Building
 
 </td>
 
-<td width="10%" align="right" valign="top">
+<td width="40%" align="right" valign="top">
 
 
 <a 
 href="https://github.com/ESCclicker">
-<img src="https://skillicons.dev/icons?i=github" width="36">
+<img src="https://skillicons.dev/icons?i=github" width="50">
 </a>
 <br>
 <a href="https://orcid.org/0009-0002-5646-902X" title="ORCID">
-<img src="https://cdn.simpleicons.org/orcid/A6CE39" width="36">
+<img src="https://cdn.simpleicons.org/orcid/A6CE39" width="50">
 </a>
 <br>
 <a href="https://youtube.com/@ESCclicker">
-<img src="https://cdn.simpleicons.org/youtube" width="36">
+<img src="https://cdn.simpleicons.org/youtube" width="50">
 </a>
 <br>
 <a href="https://twitch.tv/ESCclicker">
-<img src="https://cdn.simpleicons.org/twitch" width="36">
+<img src="https://cdn.simpleicons.org/twitch" width="50">
 </a>
 <br>
 <a href="https://mail.google.com/mail/?view=cm&to=escclicker@gmail.com" title="Send Email">
-  <img src="https://skillicons.dev/icons?i=gmail" width="36">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50">
 </a>
 <br>
 
